@@ -1,8 +1,10 @@
 #include<stdio.h>
 #include<math.h>
-/*29-10-2023
+/*
+Date: 29-10-2023
 Author: Shreyansh_G
-Program to get input between 0 and 1 (non inclusive) */
+Program to get input between 0 and 1 (non inclusive)
+*/
 int main(void)
 {
   double radians;
